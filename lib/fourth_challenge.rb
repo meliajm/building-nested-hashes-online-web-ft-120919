@@ -47,7 +47,7 @@ def fourth_challenge
           {
             :name => "Mercutio",
             :age => "18",
-            :attitude => "hot-headded"
+            :attitude => "hot-headed"
           }]
      },
      :capulet => {
@@ -77,6 +77,7 @@ def fourth_challenge
      }
    }
 end
+
 
 
 
