@@ -47,7 +47,7 @@ def fourth_challenge
           {
             :name => "Mercutio",
             :age => "18",
-            :attitude => "hot-headded"
+            :attitude => "hot-headed"
           }]
      },
      :capulet => {
@@ -79,7 +79,7 @@ def fourth_challenge
 end
 
  expected collection contained:  
- [{:age=>"17", :attitude=>"worried", :name=>"Benvolio"}, {:age=>"18", :attitude=>"hot-headed", :name=>"Mercutio"}]
+{:age=>"18", :attitude=>"hot-headed", :name=>"Mercutio"}]
 {:age=>"18", :attitude=>"hot-headded", :name=>"Mercutio"}]
 
 
