@@ -78,8 +78,6 @@ def fourth_challenge
    }
 end
 
- expected collection contained:  
-{:age=>"18", :attitude=>"hot-headed", :name=>"Mercutio"}]
-{:age=>"18", :attitude=>"hot-headded", :name=>"Mercutio"}]
+
 
 
